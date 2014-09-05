@@ -3,27 +3,15 @@
 
 Single Script that protects any other php script avoiding brute force attacks to it.
 
-##How to use
+##How to use (i.e. in a WordPress site)
 
- 1. Download it and put it in same folder than the script you want to protect. 
+ 1. Download it and put it in same folder than the script you want to protect (i.e. wp-login.php)
  2. Edit your php script and add this line on top of it:
 
   ```php
   <?php include('antibot.php'); ?>
   ```
  3. Save changes.
-
-###Example for the login script in a Wordpress site
-
-  1. Download antibot.php
-  2. Put it in same folder as wp-login.php file
-  3. Edit wp-login.php file and add this line on top of it:
-
-   ```php
-   <?php include('antibot.php'); ?>
-   ```
-
-  4. Save changes
 
 ##What happens next?
 
