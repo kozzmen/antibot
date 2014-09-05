@@ -35,7 +35,7 @@ Single Script that protects any other php script avoiding brute force attacks to
 
 * Most of times these bots decide to abandon the site, despite others insist in execute a brute force login attack, but thanks to this protection, it use minimal server resources because it blocks a full Wordpress load. 
 
- If you are not using this script and you are suffering a brute force attack, then Wordpress has to execute too many steps to deny the access, forcing your server to spend more resources, and causing DDOS problems if there are several bots at same time.
+* If you are not using this script and you are suffering a brute force attack, then Wordpress has to execute too many steps to deny the access, forcing your server to spend more resources, and causing DDOS problems if there are several bots at same time.
 
 I hope you like it! It has helped some of my servers full of Wordpress/Joomla sites to run better.
 
