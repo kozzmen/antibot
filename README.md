@@ -17,7 +17,7 @@ Single Script that protects any other php script avoiding brute force attacks to
 
 * Next time that wp-login.php will be called then this script will be loaded first and it will ask to click a button to continue.
 
-* At same time it will be returning an HTTP header with 404 error code to fustrate possible robots/bots/scrappers about if it exists or not. 
+* At same time it will be returning an HTTP header with 404 error code to frustrate possible robots/bots/scrappers about if it exists or not. 
 
 ##Is it useful for nothing?
 
