@@ -3,9 +3,6 @@
 
 Single Script that protects any other php script avoiding brute force attacks to it.
 
-#####Screen capture
-![alt text](https://raw.githubusercontent.com/masterguru/antibot/master/antibot.png "Antibot capture")
-
 
 ##How to use (i.e. in a WordPress site)
 
@@ -20,6 +17,10 @@ Single Script that protects any other php script avoiding brute force attacks to
 ##What happens next?
 
 * Next time that wp-login.php will be called then this script will be loaded first and it will ask to click a button to continue.
+
+#####Screen capture
+![alt text](https://raw.githubusercontent.com/masterguru/antibot/master/antibot.png "Antibot capture")
+
 
 * At same time it will be returning an HTTP header with 404 error code to frustrate possible robots/bots/scrappers about if it exists or not. 
 
