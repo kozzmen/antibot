@@ -3,6 +3,10 @@
 
 Single Script that protects any other php script avoiding brute force attacks to it.
 
+#####Screen capture
+![alt text](https://raw.githubusercontent.com/masterguru/antibot/master/antibot.png "Antibot capture")
+
+
 ##How to use (i.e. in a WordPress site)
 
  1. Download it and put it in same folder than the script you want to protect (i.e. wp-login.php)
