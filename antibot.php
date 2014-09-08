@@ -6,9 +6,25 @@
  * It sends a 404 error page response when a new IP is connected
  * and forces to click a link to continue (human response)
  *
- * Author: masterguru.net  
- * Date: 3/Sept/2014
+ * Copyright (C) 2014 masterguru.net
  * 
+ * This program is free software; you can redistribute it and/or modify
+ * it under the terms of the GNU General Public License as published by
+ * the Free Software Foundation; either version 2 of the License, or
+ * (at your option) any later version.
+ * 
+ * This program is distributed in the hope that it will be useful,
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+ * GNU General Public License for more details.
+ * 
+ * You should have received a copy of the GNU General Public License along
+ * with this program; if not, write to the Free Software Foundation, Inc.,
+ * 51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA.
+ * 
+ */
+ 
+ /**
  * Usage:
  * 1 - Copy this file in same folder as your login script
  * 2 - Add this line at top of your login script file:
