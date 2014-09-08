@@ -23,7 +23,7 @@ Single Script that protects any other php script avoiding brute force attacks to
 
 * At same time it will be returning an HTTP header with 404 error code to frustrate possible robots/bots/scrappers about if it exists or not. 
 
-##Is it useful for nothing?
+##Is it useful?
 
 * Most of times these bots decide to abandon the site, despite others insist in execute a brute force login attack, but thanks to this protection, it use minimal server resources because it blocks a full Wordpress load. 
 
